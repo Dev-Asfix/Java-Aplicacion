@@ -22,3 +22,5 @@ Aquí tienes algunas capturas de pantalla de la aplicación:
 
 ![Captura de pantalla 1](link-a-captura1.png)
 ![Captura de pantalla 2](link-a-captura2.png)
+
+Creditos : Al curso de Java Basico y Java Intermedio de Ernesto 
