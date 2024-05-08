@@ -8,7 +8,7 @@ Para una mejor experiencia con la aplicación, se recomienda descargar las imág
 
 1. **Descargar las imágenes**: Descarga las imágenes necesarias para la aplicación desde el siguiente enlace: [🖼️ Imágenes](link-a-imagenes).
 
-2. **Descargar la aplicación**: Descarga el archivo `Aplicacion.jar` desde el siguiente enlace: [⬇️ Aplicacion.jar](link-a-Aplicacion.jar).
+2. **Descargar la aplicación**: Descarga el archivo `Aplicacion.jar` desde el siguiente enlace: [⬇️ Aplicacion.jar](https://github.com/Dev-Asfix/Java-Aplicacion/blob/main/Aplicacion.jar).
 
 3. **Ejecutar la aplicación**: Una vez descargado `Aplicacion.jar`, ejecuta la aplicación en tu entorno Java.
 
