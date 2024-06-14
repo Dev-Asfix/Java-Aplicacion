@@ -1,4 +1,4 @@
-# Java-Aplicacion-Trabajadores 🚀
+# Java-Aplicacion-Trabajadores 
 
 Una aplicación básica en Java que calcula las vacaciones de los trabajadores de una empresa. La aplicación cuenta con registro, aceptación de términos, etc.
 
