@@ -2,7 +2,7 @@
 
 Una aplicación básica en Java que calcula las vacaciones de los trabajadores de una empresa. La aplicación cuenta con registro, aceptación de términos, etc.
 
-## Visualización y descarga 📥
+## Visualización y descarga 
 
 Para una mejor experiencia con la aplicación, se recomienda descargar las imágenes necesarias. Sigue los pasos a continuación para ver la aplicación y descargarla:
 
