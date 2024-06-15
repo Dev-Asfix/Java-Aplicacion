@@ -18,6 +18,5 @@ Para una mejor experiencia con la aplicación, se recomienda descargar las imág
 
 Aquí tienes algunas capturas de pantalla de la aplicación:
 
-![Captura de pantalla 2](link-a-captura2.png)
 
 Creditos : Al curso de Java Basico y Java Intermedio de Ernesto 
