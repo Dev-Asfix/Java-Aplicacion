@@ -15,5 +15,4 @@ Para una mejor experiencia con la aplicación, se recomienda descargar las imág
 4. **Utilizar la aplicación**: Sigue las instrucciones en la aplicación para registrar trabajadores, aceptar términos, y calcular las vacaciones.
 
 
-
 Creditos : Al curso de Java Basico y Java Intermedio de Ernesto 
