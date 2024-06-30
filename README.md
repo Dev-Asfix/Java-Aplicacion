@@ -4,7 +4,6 @@ Una aplicación básica en Java que calcula las vacaciones de los trabajadores d
 
 ## Visualización y descarga 
 
-
 Para una mejor experiencia con la aplicación, se recomienda descargar las imágenes necesarias. Sigue los pasos a continuación para ver la aplicación y descargarla:
 
 1. **Descargar las imágenes**: Descarga las imágenes necesarias para la aplicación desde el siguiente enlace: [🖼️ Imágenes](https://github.com/Dev-Asfix/Java-Aplicacion/tree/main/images).
